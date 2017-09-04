@@ -1,6 +1,7 @@
 ## Nature Rainbow Dark Syntax theme
 
-> Image will updated in soon
+![naturerainbow](https://user-images.githubusercontent.com/6399202/30009975-e7092b62-9102-11e7-8d74-f8654b3f274c.png)
+
 
 This theme is a fork from One-dark-theme of Atom project.
 
