@@ -1,0 +1,17 @@
+{
+  "name": "naturerainbow-dark-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A simple dark theme based on One-dark-theme with the rainbow colors",
+  "keywords": [
+    "dark",
+    "nature",
+    "green",
+    "syntax"
+  ],
+  "repository": "https://github.com/fthiaoggv/naturerainbow-dark-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
